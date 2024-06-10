@@ -7,4 +7,4 @@
 **Technologies Used:**
 - HTML
 - CSS
-- JavaScript
+- Vanilla JavaScript
